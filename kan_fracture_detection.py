@@ -5,10 +5,9 @@ import time
 import tempfile
 import os
 from pathlib import Path
-
-    import cv2
-
+import cv2
 from ultralytics import YOLO
+
 
 # ── Page Config ───────────────────────────────────────────────
 st.set_page_config(
