@@ -293,7 +293,7 @@ with st.sidebar:
 <b>Dimple Alekhya Basimi</b><br>
 <b>Gowtham Kamle</b><br>
 <br>
-<span style="color:#94A3B8;font-size:12px;">Contributors:</span><br>
+<span style="color:#94A3B8;font-size:13px;">Contributors:</span><br>
 <br>
 Chandana Pati<br>
 B. Veena S. N. Rao<br>
