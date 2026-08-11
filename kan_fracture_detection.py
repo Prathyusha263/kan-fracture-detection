@@ -240,13 +240,11 @@ with st.sidebar:
 <b>Dimple Alekhya Basimi</b><br>
 <b>Gowtham Kamle</b><br>
 <br>
-<span style="color:#94A3B8;font-size:12px;">Contributors:</span><br>
+<span style="color:#94A3B8;font-size:13px;">Contributors:</span><br>
 Chandana Pati<br>
 B. Veena S. N. Rao<br>
 Ravi Samraj<br>
-<br>
-<i style="color:#94A3B8;">Advisor:</i><br>
-<b>Dr. S. M. Mallikarjunaiah</b><br>
+S. M. Mallikarjunaiah<br>
 <br>
 <span style="color:#64748B;font-size:11px;">
 Dept. of Mathematics & Statistics<br>
