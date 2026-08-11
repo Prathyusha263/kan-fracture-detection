@@ -294,10 +294,10 @@ with st.sidebar:
 <b>Gowtham Kamle</b><br>
 <br>
 <span style="color:#94A3B8;font-size:12px;">Contributors:</span><br>
+<br>
 Chandana Pati<br>
 B. Veena S. N. Rao<br>
 Ravi Samraj<br>
-<br>
 Dr. S. M. Mallikarjunaiah<br>
 <br>
 <span style="color:#64748B;font-size:11px;">
