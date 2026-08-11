@@ -298,8 +298,7 @@ Chandana Pati<br>
 B. Veena S. N. Rao<br>
 Ravi Samraj<br>
 <br>
-<i style="color:#94A3B8;">Advisor:</i><br>
-<b>Dr. S. M. Mallikarjunaiah</b><br>
+Dr. S. M. Mallikarjunaiah<br>
 <br>
 <span style="color:#64748B;font-size:11px;">
 Dept. of Mathematics & Statistics<br>
