@@ -293,11 +293,14 @@ with st.sidebar:
 <b>Dimple Alekhya Basimi</b><br>
 <b>Gowtham Kamle</b><br>
 <br>
-<span style="color:#94A3B8;font-size:13px;">Contributors:</span><br>
+<span style="color:#94A3B8;font-size:13px;">Collaborators:</span><br>
 <br>
 Chandana Pati<br>
-B. Veena S. N. Rao<br>
-Ravi Samraj<br>
+Dr. B. Veena S. N. Rao<br>
+Dr. Ravi Samraj<br>
+<br>
+<span style="color:#94A3B8;font-size:13px;">Project Advisor:</span><br>
+<br>
 Dr. S. M. Mallikarjunaiah<br>
 <br>
 <span style="color:#64748B;font-size:11px;">
